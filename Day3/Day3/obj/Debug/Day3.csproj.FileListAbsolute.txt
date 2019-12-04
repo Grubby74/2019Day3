@@ -1,0 +1,6 @@
+E:\Users\Kevin\AdventOfCode2019\Day3\Day3\Day3\bin\Debug\Day3.exe.config
+E:\Users\Kevin\AdventOfCode2019\Day3\Day3\Day3\bin\Debug\Day3.exe
+E:\Users\Kevin\AdventOfCode2019\Day3\Day3\Day3\bin\Debug\Day3.pdb
+E:\Users\Kevin\AdventOfCode2019\Day3\Day3\Day3\obj\Debug\Day3.csprojResolveAssemblyReference.cache
+E:\Users\Kevin\AdventOfCode2019\Day3\Day3\Day3\obj\Debug\Day3.exe
+E:\Users\Kevin\AdventOfCode2019\Day3\Day3\Day3\obj\Debug\Day3.pdb
